@@ -14,7 +14,7 @@ Tales is a social media platform where users can share their stories and life ev
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tales.git
+   git clone https://github.com/P10swati/tales.git
    cd tales
    ```
 2. Install dependencies:
